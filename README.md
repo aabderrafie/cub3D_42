@@ -53,7 +53,7 @@ C 225,30,0
 ### Build Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cub3d.git
+   git clone https://github.com/aabderrafie/cub3D_42
    cd cub3d
    ```
 2. Compile the program:
@@ -62,7 +62,7 @@ C 225,30,0
    ```
 3. Run the game with a valid map:
    ```bash
-   ./cub3D map.cub
+   ./cub3D me.cub
    ```
 
 ## Bonus Features
