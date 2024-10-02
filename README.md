@@ -62,7 +62,7 @@ C 225,30,0
    ```
 3. Run the game with a valid map:
    ```bash
-   ./cub3D me.cub
+   ./cub3D map.cub
    ```
 
 ## Bonus Features
